@@ -1,17 +1,7 @@
-#    Semester: fall 2022
-#    Digital Signal Processing Course
-#    Task-2
 
-# Title: Equalizer
+# Equalizer
 A digital signal processing website made using streamlit and customized using CSS where users have 4 modes, normal frequency mode ,vowels , music instruments and medical signal   
-## Team Members
-  * Kareman Yasser  -Sec: 2   -BN:  9
-  * Mayar fayez     -Sec: 2   -BN:  42
-  * Shirouq Shawky  -Sec: 1   -BN:  46
 
-## About:
- #### Team No.14
-We are class of 2024 Systems and Biomedical Engineering, at Cairo university. We have designed this website for anyone interested in digital signal processing. Our website deals with the signals in different forms csv and wav.
 
 ## Tools:
   * Streamlit
